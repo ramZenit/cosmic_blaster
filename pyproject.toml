@@ -1,7 +1,7 @@
 [project]
 name = "cosmic-blaster"
 version = "0.1.0"
-description = "Add your description here"
+description = "Asteroids game developed in Pygame for the Boot.dev backend curriculum."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
